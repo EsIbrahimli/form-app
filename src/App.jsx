@@ -1,4 +1,4 @@
-import UserForm from "./components/userForm/UserForm";
+import UserForm from "./components/UserForm/UserForm";
 import './App.css';
 
 function App() {
